@@ -1,0 +1,92 @@
+[
+{
+    "nome": "Darth Vader (Anakin Skywalker)",
+    "imagem": "vader.png",
+    "descricao": " Império Galáctico. <br> De herói da República a lenda das sombras, ele é a personificação da tragédia e do poder. Seu <br> legado é uma eterna batalha entre a escuridão e a centelha de bondade que ele tentou sufocar",
+    "link": "https://pt.wikipedia.org/wiki/Darth_Vader"
+},
+
+{
+    "nome": "Luke Skywalker",
+    "imagem": "luke.png",
+    "descricao": " Aliança Rebelde / Ordem Jedi. <br> O herói da Trilogia Original. De um fazendeiro em Tatooine a Mestre Jedi, ele liderou a luta para <br> derrubar o Império e redimiu seu pai, Darth Vader. ",
+    "link": "https://pt.wikipedia.org/wiki/Luke_Skywalker"
+},
+
+{
+    "nome": "Mestre Yoda",
+    "imagem": "yoda.png",
+    "descricao": " Ordem Jedi / República Galáctica. <br> Um dos mais sábios e poderosos Mestres Jedi da história. Ele treinou inúmeras gerações de Jedi, <br> incluindo Obi-Wan Kenobi e, crucialmente, Luke Skywalker.",
+    "link": "https://pt.wikipedia.org/wiki/Yoda"
+},
+
+{
+    "nome": "Princesa Leia Organa",
+    "imagem": "leia.png",
+    "descricao": " Aliança Rebelde / Nova República. <br> Líder política e militar, Senadora, e uma das fundadoras da Aliança Rebelde. Ela é uma das mais <br> fortes heroínas da galáxia e irmã gêmea de Luke.",
+    "link": "https://en.wikipedia.org/wiki/Princess_Leia"
+},
+
+{
+    "nome": "Han Solo",
+    "imagem": "han_solo.png",
+    "descricao": " Aliança Rebelde (Contrabandista reformado). <br> Piloto do Millennium Falcon, famoso por seu ceticismo e charme. Inicialmente um contrabandista,<br> ele se tornou um herói da Rebelião e parte central da família Skywalker.",
+    "link": "https://pt.wikipedia.org/wiki/Han_Solo"
+},
+
+{
+    "nome": "Obi-Wan Kenobi",
+    "imagem": "Obi_Wan.png",
+    "descricao": " Ordem Jedi / República Galáctica / Aliança Rebelde. <br>Lendário Mestre Jedi e General durante as Guerras Clônicas. Ele foi o mentor de Anakin Skywalker <br> e, mais tarde, de seu filho, Luke Skywalker, guiando o ressurgimento dos Jedi. ",
+    "link": "https://pt.wikipedia.org/wiki/Obi-Wan_Kenobi"
+},
+
+{
+    "nome": "Palpatine (Darth Sidious)",
+    "imagem": "Palpatine.png",
+    "descricao": " Império Galáctico / Ordem Sith. <br> Lorde Sith e Chanceler Supremo da República, que secretamente orquestrou a queda dos Jedi e <br> a ascensão do Império, tornando-se seu Imperador.",
+    "link": "https://pt.wikipedia.org/wiki/Darth_Sidious"
+},
+
+{
+    "nome": "Chewbacca",
+    "imagem": "Chew.png",
+    "descricao": " Aliança Rebelde / Resistência. <br> Valente guerreiro Wookiee e copiloto leal de Han Solo a bordo da Millennium Falcon. Um dos <br> membros mais queridos da Aliança Rebelde.",
+    "link": "https://pt.wikipedia.org/wiki/Chewbacca"
+},
+
+{
+    "nome": "C-3PO",
+    "imagem": "C-3PO.png",
+    "descricao": " Família Skywalker / Aliança Rebelde. <br> Andróide de protocolo fluente em mais de seis milhões de formas de comunicação. Construído <br> por Anakin Skywalker, ele é um dos poucos a testemunhar toda a saga.",
+    "link": "https://starwars.fandom.com/pt/wiki/C-3PO"
+},
+
+{
+    "nome": "R2-D2",
+    "imagem": "r2-d2.png",
+    "descricao": " Família Skywalker / Aliança Rebelde. <br> Andróide astromecânico corajoso e engenhoso. Ele carrega informações vitais e frequentemente <br> salva os heróis em momentos críticos.",
+    "link": "https://pt.wikipedia.org/wiki/R2-D2"
+},
+
+{
+    "nome": "Padmé Amidala",
+    "imagem": "padme.png",
+    "descricao": " República Galáctica / Naboo. <br> Rainha de Naboo e Senadora da República. Uma líder política forte e esposa secreta de Anakin <br> Skywalker, sendo a mãe de Luke e Leia.",
+    "link": "https://pt.wikipedia.org/wiki/Padm%C3%A9_Amidala"
+},
+
+{
+    "nome": "Darth Maul",
+    "imagem": "Darth_Maul.png",
+    "descricao": " Ordem Sith / Coletivo das Sombras. <br> Lorde Sith Dathomiriano, aprendiz de Darth Sidious, conhecido por seu sabre de luz de lâmina <br> dupla e sua busca incessante por vingança contra Obi-Wan Kenobi.",
+    "link": "https://pt.wikipedia.org/wiki/Darth_Maul"
+},
+
+{
+    "nome": "General Grievous",
+    "imagem": "gen_g.png",
+    "descricao": " Confederação de Sistemas Independentes (Separatistas). <br> Comandante militar ciborgue dos exércitos Droid. Famoso por colecionar sabres de luz e por <br> sua técnica de combate com quatro braços.",
+    "link": "https://starwars.fandom.com/wiki/Grievous"
+}
+]
